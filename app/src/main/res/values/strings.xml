@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Golan\'s_ex1</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="status_n_1000">Status\n 1000</string>
+    <string name="buttons">Buttons 🎮</string>
+    <string name="sensors">Sensors 📱</string>
+    <string name="leaderboard">Leaderboard 📑</string>
+    <string name="choose_how_to_play">Choose how to play</string>
+    <string name="final_score">Final Score</string>
+    <string name="player_name">Player Name</string>
+    <string name="try_again_button">Play Again 🚗</string>
+    <string name="back_to_menu">back to menu</string>
+    <string name="enter_your_name_hint">Enter your name</string>
+</resources>
